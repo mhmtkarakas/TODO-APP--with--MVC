@@ -1,6 +1,6 @@
 # MVC and Custom Hook Project
 
-This project is created by using MVC technologies
+This project is created by using MVC and custom hook technologies
 
 ## Used Technologies
 
